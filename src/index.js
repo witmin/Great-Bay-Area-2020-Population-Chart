@@ -9,7 +9,7 @@ import {
     format
 } from 'd3';
 
-const titleText = '大湾区城市2020初常住人口';
+const titleText = '2020大湾区城市常住人口';
 
 const svg = select('svg');
 

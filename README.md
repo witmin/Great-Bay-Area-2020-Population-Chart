@@ -1,5 +1,5 @@
-# Great Bay Area City Population 2020 
-大湾区城市2020常住人口。以网上搜索到的非官方或官方统计数字为范例样本，使用 D3.js 绘制大湾区9⃣市人口2020年人口总数柱状图。
+# Great Bay Area City Population 2020 大湾区城市常住人口 
+以网上搜索到的非官方或官方统计数字为范例样本，使用 D3.js 绘制大湾区9⃣市人口2020年人口总数柱状图。
 
 This repository used [rollup.js](https://rollupjs.org/) as the JavaScript module bundler.
 
