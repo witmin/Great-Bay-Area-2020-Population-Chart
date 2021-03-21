@@ -5,7 +5,8 @@ The tutorial video is on FreeCodeCamp.org made by Curran Kelleher: https://www.y
 
 This repository used [rollup.js](https://rollupjs.org/) as the JavaScript module bundler.
 
-## Screenshot o
+## Screenshot
+![](screenshot/bar_chart.gif)
 
 ## View the outcome
 Open `public/index.html` in modern browser such as Chrome or Firefox directly. 
