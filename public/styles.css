@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+rect {
+    fill: #6174d6;
+}
+
+text {
+    font-size: 1rem;
+    fill: #353d67;
+}
+
+.title {
+    fill: #12172f;
+    font-size: 1.4rem;
+}
+
+.axis-label {
+    font-size: 1.125rem;
+}
+
+.tick line {
+    stroke: #c3c4cd;
+}
+
+.tick text {
+    font-weight: bold;
+}
+
+.bar:hover {
+    fill: #353d67;
+    cursor: pointer;
+}
